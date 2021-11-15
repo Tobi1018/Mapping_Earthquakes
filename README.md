@@ -28,4 +28,4 @@ Using your knowledge of JavaScript and Leaflet.js add a third map style to your 
 
 
 ## Resources
-(https://tobi1018.github.io/Mapping_Earthquakes/)[http://127.0.0.1:5500/index.html]
+[https://tobi1018.github.io/Mapping_Earthquakes/](http://127.0.0.1:5500/index.html)
