@@ -27,5 +27,4 @@ Using your knowledge of JavaScript and Leaflet.js add a third map style to your 
 ![3rd](https://user-images.githubusercontent.com/58860105/141720636-d57e1555-90ab-414a-8af2-414aef60fabb.PNG)
 
 
-## Resources
-[https://tobi1018.github.io/Mapping_Earthquakes/](http://127.0.0.1:5500/index.html)
+
