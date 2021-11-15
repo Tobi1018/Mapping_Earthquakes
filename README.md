@@ -13,3 +13,6 @@ Mapping Earthquakes with JS and APIs
 
 
 ![D2](https://user-images.githubusercontent.com/58860105/141719715-6ac8ce97-13b0-445e-849a-5d9560c7e0e7.PNG)
+
+
+![SATA](https://user-images.githubusercontent.com/58860105/141720013-4d0f4d03-b7aa-450e-b5a2-bac419401e5c.PNG)
