@@ -19,3 +19,12 @@ Using my understanding of JavaScript, Leaflet.js, and geoJSON data, created a ma
 
                                               Satellite View 
 ![SATA](https://user-images.githubusercontent.com/58860105/141720013-4d0f4d03-b7aa-450e-b5a2-bac419401e5c.PNG)
+
+
+## Deliverable 3
+Using your knowledge of JavaScript and Leaflet.js add a third map style to your earthquake map.
+
+![3rd](https://user-images.githubusercontent.com/58860105/141720636-d57e1555-90ab-414a-8af2-414aef60fabb.PNG)
+
+
+
