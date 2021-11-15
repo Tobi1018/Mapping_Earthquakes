@@ -27,4 +27,5 @@ Using your knowledge of JavaScript and Leaflet.js add a third map style to your 
 ![3rd](https://user-images.githubusercontent.com/58860105/141720636-d57e1555-90ab-414a-8af2-414aef60fabb.PNG)
 
 
+## Resources
 
